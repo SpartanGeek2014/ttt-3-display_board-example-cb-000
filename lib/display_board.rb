@@ -2,4 +2,9 @@
 def display_board
   cell = "   "
   row = "|"
+  puts "cell, row, cell, row, cell"
+  puts "-----------"
+  puts "cell, row, cell, row, cell"
+  puts "-----------"
+  puts "cell, row, cell, row, cell"
 end
